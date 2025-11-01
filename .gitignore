@@ -301,6 +301,13 @@ FakesAssemblies/
 .ntvs_analysis.dat
 node_modules/
 
+# Node.js specific
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
 # Visual Studio 6 build log
 *.plg
 
